@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:untitled/future_builder/post_data.dart';
-import 'package:untitled/future_builder/posts.dart';
+import 'package:untitled/future_builder/post.dart';
 
 class FutureBuilderTest extends StatelessWidget {
   const FutureBuilderTest({Key? key}) : super(key: key);
